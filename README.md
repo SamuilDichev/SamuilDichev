@@ -17,6 +17,3 @@
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/samuildichev/samuildichev/master/matrix.png') no-repeat center center; background-size: cover;]{x0000}$}
